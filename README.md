@@ -25,3 +25,7 @@ The `images.h` file contains 18x13 bitmap implementation for sprites. Sprites in
 # Demo
 Here's a video I recorded while playing the game:
 
+
+https://github.com/CodeMaestro1000/Space-Invaders/assets/46170255/a689260c-7e3c-456f-96b9-ba53e0d261c0
+
+
